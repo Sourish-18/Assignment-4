@@ -1,0 +1,4 @@
+Assignment 4 (Task 1):
+Opens and reads a text file named sample.txt
+Prints its content line by line.
+Handles errors gracefully if the file does not exist.
